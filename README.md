@@ -32,3 +32,6 @@ Data exploration showed the distribution of different sentiment categories in th
 Machine learning models were able to learn patterns from the training data and predict sentiments on unseen text samples.
 Sentiment analysis can help organizations understand customer opinions and improve decision-making based on feedback.
 The project demonstrated the practical application of Natural Language Processing and Machine Learning for solving real-world classification problems.
+
+# OUTPUT
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/a2349b78-aa37-4d58-a353-d24107bbe52d" />
