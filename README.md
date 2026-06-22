@@ -34,4 +34,6 @@ Sentiment analysis can help organizations understand customer opinions and impro
 The project demonstrated the practical application of Natural Language Processing and Machine Learning for solving real-world classification problems.
 
 # OUTPUT
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/63f6df34-289b-4f02-b4fd-6aa88ec6edf8" />
+
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/a2349b78-aa37-4d58-a353-d24107bbe52d" />
